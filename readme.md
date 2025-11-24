@@ -279,23 +279,3 @@ Beberapa hal yang bisa diamati:
 5. Jalankan cell dari atas ke bawah secara berurutan (Restart & Run All juga bisa).
 
 ---
-
-## 9. Pengembangan Lanjutan (Optional)
-
-Beberapa ide pengembangan:
-
-- Menambahkan model lain (misal CNN 1D untuk fitur numerik).
-- Hyperparameter tuning (learning rate, jumlah neuron, jumlah epoch).
-- Cross-validation untuk validasi yang lebih kuat.
-- Menyimpan model terlatih (`model.save(...)`) dan membuat API sederhana (misalnya dengan Flask/FastAPI) untuk prediksi real-time.
-
----
-
-## 10. Lisensi
-
-Silakan sesuaikan bagian ini sesuai kebutuhan (misal: pribadi, akademik, atau open source).
-
-```text
-Project ini dibuat untuk keperluan pembelajaran dan/atau tugas akademik
-terkait penerapan Deep Learning dan NCF pada prediksi tingkat stres karyawan.
-```
